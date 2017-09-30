@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "8c39617c_7ace0a01",
+        "filename": "pizza-dough.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 1012502
+      },
+      "writtenOn": "2017-09-30T15:49:37Z",
+      "side": 1,
+      "message": "I think you mean sugar!",
+      "range": {
+        "startLine": 5,
+        "startChar": 13,
+        "endLine": 5,
+        "endChar": 17
+      },
+      "revId": "4280a420ec67008ee0b6ac0ecab92bde168cadf7",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
